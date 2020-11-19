@@ -2,7 +2,7 @@
 #create by HENRY1833
 
 import smtplib
-import os from system
+from os import system
 
 def main():
    print'======================================='
