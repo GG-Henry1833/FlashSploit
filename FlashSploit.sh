@@ -1,8 +1,5 @@
-#!/usr/bin/python
-'''create by Henry1833'''
-
-import smtplib
-import os from system
+#data/data/com.termux/files/usr/bin/bash
+#create by HENRY1833
 
 def main():
    print'======================================='
