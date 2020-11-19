@@ -1,8 +1,8 @@
 #data/data/com.termux/files/usr/bin/bash
 #create by HENRY1833
 
-import os from system
 import smtplib
+import os from system
 
 def main():
    print'======================================='
