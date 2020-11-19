@@ -4,7 +4,7 @@
 import smtplib
 import os from system
 
-def main()
+def main():
    print'======================================='
    print'          Create By HENRY1833          '
    print'======================================='
