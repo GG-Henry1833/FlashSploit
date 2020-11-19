@@ -1,5 +1,5 @@
-#data/data/com.termux/files/usr/bin/bash
-#create by HENRY1833
+# data/data/com.termux/files/usr/bin/bash
+# create by HENRY1833
 
 import smtplib
 from os import system
